@@ -1,0 +1,117 @@
+[20:54:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:54:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:40] [main/INFO]: Reloading ResourceManager: Default
+[20:54:40] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:54:41] [Worker-Main-4/INFO]: Loaded 1137 advancements
+[20:54:42] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:54:42] [Server thread/INFO]: Loading properties
+[20:54:42] [Server thread/INFO]: Default game type: SURVIVAL
+[20:54:42] [Server thread/INFO]: Generating keypair
+[20:54:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:54:42] [Server thread/INFO]: Using default channel type
+[20:54:43] [Server thread/INFO]: Preparing level "world"
+[20:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:54:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:54:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:54:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:54:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:54:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:54:45] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[20:54:46] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[20:54:46] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[20:54:47] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[20:54:47] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[20:54:51] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-5/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-5/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[20:54:51] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[20:54:51] [Server thread/INFO]: Time elapsed: 8523 ms
+[20:54:51] [Server thread/INFO]: Done (8.613s)! For help, type "help"
+[21:29:20] [User Authenticator #1/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:29:21] [Server thread/INFO]: Amervera[/86.7.58.253:61013] logged in with entity id 221 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:29:21] [Server thread/INFO]: Amervera joined the game
+[21:29:49] [Server thread/INFO]: Amervera lost connection: Disconnected
+[21:29:49] [Server thread/INFO]: Amervera left the game
+[21:29:58] [User Authenticator #2/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:29:58] [Server thread/INFO]: Amervera[/86.7.58.253:63974] logged in with entity id 262 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:29:58] [Server thread/INFO]: Amervera joined the game
+[21:30:15] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:30:15] [Server thread/INFO]: Amervera left the game
+[21:30:20] [User Authenticator #3/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:30:20] [Server thread/INFO]: Amervera[/86.7.58.253:62474] logged in with entity id 294 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:30:20] [Server thread/INFO]: Amervera joined the game
+[21:30:24] [Server thread/INFO]: Amervera was slain by Zombie
+[21:30:33] [Server thread/INFO]: Amervera lost connection: Disconnected
+[21:30:33] [Server thread/INFO]: Amervera left the game
+[21:30:36] [User Authenticator #4/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:30:36] [Server thread/INFO]: Amervera[/86.7.58.253:58452] logged in with entity id 325 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:30:36] [Server thread/INFO]: Amervera joined the game
+[21:30:55] [Server thread/INFO]: Amervera lost connection: Disconnected
+[21:30:55] [Server thread/INFO]: Amervera left the game
+[21:30:55] [Server thread/WARN]: handleDisconnection() called twice
+[21:31:02] [User Authenticator #5/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:31:02] [Server thread/INFO]: Amervera[/86.7.58.253:64957] logged in with entity id 374 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:31:02] [Server thread/INFO]: Amervera joined the game
+[21:31:08] [Server thread/INFO]: Amervera lost connection: Disconnected
+[21:31:08] [Server thread/INFO]: Amervera left the game
+[21:32:35] [User Authenticator #6/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:32:35] [Server thread/INFO]: Amervera[/86.7.58.253:52957] logged in with entity id 393 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:32:35] [Server thread/INFO]: Amervera joined the game
+[21:32:51] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:32:51] [Server thread/INFO]: Amervera left the game
+[21:36:01] [User Authenticator #7/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:36:01] [Server thread/INFO]: Amervera[/86.7.58.253:58470] logged in with entity id 431 at (-234.15892867664775, 69.0, 195.30000001192093)
+[21:36:01] [Server thread/INFO]: Amervera joined the game
+[21:36:39] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:36:39] [Server thread/INFO]: Amervera left the game
+[21:38:03] [User Authenticator #8/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:38:03] [Server thread/INFO]: Amervera[/86.7.58.253:58568] logged in with entity id 523 at (-233.78217202275226, 69.0, 195.85436590817497)
+[21:38:03] [Server thread/INFO]: Amervera joined the game
+[21:38:18] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:38:18] [Server thread/INFO]: Amervera left the game
+[21:38:41] [User Authenticator #9/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:38:41] [Server thread/INFO]: Amervera[/86.7.58.253:58586] logged in with entity id 562 at (-233.78217202275226, 69.0, 195.85436590817497)
+[21:38:42] [Server thread/INFO]: Amervera joined the game
+[21:39:01] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:39:01] [Server thread/INFO]: Amervera left the game
+[21:39:59] [User Authenticator #10/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[21:39:59] [Server thread/INFO]: Amervera[/86.7.58.253:50482] logged in with entity id 613 at (-233.78217202275226, 69.0, 195.85436590817497)
+[21:39:59] [Server thread/INFO]: Amervera joined the game
+[21:40:15] [Server thread/INFO]: Amervera lost connection: Timed out
+[21:40:15] [Server thread/INFO]: Amervera left the game
+[22:03:41] [User Authenticator #11/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[22:03:41] [Server thread/INFO]: Amervera[/86.7.58.253:55153] logged in with entity id 650 at (-233.78217202275226, 69.0, 195.85436590817497)
+[22:03:41] [Server thread/INFO]: Amervera joined the game
+[22:12:22] [Server thread/WARN]: Amervera moved wrongly!
+[22:14:18] [User Authenticator #12/INFO]: UUID of player Spinxzl is 6c12093b-d694-4543-b99e-cecd9d84aef8
+[22:14:18] [Server thread/INFO]: Spinxzl[/192.168.0.72:49338] logged in with entity id 2241 at (-240.04740901701257, 66.0, 223.53015758264502)
+[22:14:18] [Server thread/INFO]: Spinxzl joined the game
+[22:14:26] [Server thread/INFO]: <Amervera> BABYY
+[22:14:55] [Server thread/INFO]: Spinxzl lost connection: Timed out
+[22:14:55] [Server thread/INFO]: Spinxzl left the game
+[22:14:57] [Server thread/INFO]: Amervera lost connection: Timed out
+[22:14:57] [Server thread/INFO]: Amervera left the game
+[22:15:01] [User Authenticator #13/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[22:15:01] [Server thread/INFO]: Amervera[/86.7.58.253:65328] logged in with entity id 2421 at (-332.5013596564838, 64.162141421027, 314.69999998807907)
+[22:15:02] [Server thread/INFO]: Amervera joined the game
+[22:15:27] [Server thread/INFO]: <Amervera> BABY
+[22:15:54] [User Authenticator #14/INFO]: UUID of player Spinxzl is 6c12093b-d694-4543-b99e-cecd9d84aef8
+[22:15:55] [Server thread/INFO]: Spinxzl[/192.168.0.72:49349] logged in with entity id 2621 at (-240.04740901701257, 66.0, 223.53015758264502)
+[22:15:55] [Server thread/INFO]: Spinxzl joined the game
+[22:16:27] [Server thread/INFO]: <Amervera> my internet is bad
+[22:16:30] [Server thread/INFO]: Spinxzl lost connection: Disconnected
+[22:16:30] [Server thread/INFO]: Spinxzl left the game
+[22:16:47] [Server thread/INFO]: Amervera lost connection: Timed out
+[22:16:47] [Server thread/INFO]: Amervera left the game
+[22:17:10] [User Authenticator #15/INFO]: UUID of player Amervera is 900f9bd4-26f3-48a5-86bf-cc093883c40e
+[22:17:10] [Server thread/INFO]: Amervera[/86.7.58.253:60807] logged in with entity id 2854 at (-310.69999998807907, 64.0, 318.30000001192093)
+[22:17:10] [Server thread/INFO]: Amervera joined the game
+[22:17:14] [Server thread/INFO]: Amervera lost connection: Disconnected
+[22:17:14] [Server thread/INFO]: Amervera left the game
